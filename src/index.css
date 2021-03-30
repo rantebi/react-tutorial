@@ -49,3 +49,7 @@ ol, ul {
   margin-left: 20px;
 }
 
+button.current-move{
+  font-weight: bold;
+}
+
